@@ -1,0 +1,28 @@
+		.navbar {
+			background-color: #5E4434 !important;
+		}
+		.nav-link, .navbar-brand {
+			color: #F1F4C7;
+		}
+		.nav-link:hover {
+			color: #ffffff;
+		}
+		body {
+		background-color: #F1F4C7;
+		}
+		h5 {
+		font-family: Palatino;
+		font-size: 85%;
+		}
+		h4 {
+		color: red;
+		font-size: 90%;
+		}
+		h3 {
+		color: green;
+		font-size: 90%;
+		}
+		h2 {
+		font-family: Impact;
+		font-size: 125%;
+		}
